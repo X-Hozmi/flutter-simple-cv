@@ -6,8 +6,8 @@ A simple, elegant CV (Curriculum Vitae) template built with Flutter for the web.
 
 - **Clean, Professional Design**: Modern CV layout inspired by contemporary resume standards
 - **Multiple Export Options**:
+  - Print CV with your printer
   - Preview CV in a new window
-  - Preview as PDF in a new window
   - Download as PNG image
   - Download as JPG image
 - **JSON-based Configuration**: Easy customization through JSON files
@@ -70,6 +70,28 @@ Edit the JSON files in the `assets/cv/` directory to customize your CV:
 To customize the appearance of your CV:
 
 - Modify the layout in `lib/presentation/pages/CV/cv_page.dart`
+
+## Future Plans
+
+This project is under active development. The following features are planned for future releases:
+
+- **Additional CV Sections**:
+  - Skills section with categorization and proficiency levels
+  - Languages section with fluency indicators
+  - Projects section to showcase portfolio work
+  
+- **ATS Optimization**:
+  - Improve compatibility with Applicant Tracking Systems (ATS)
+  - Add keywords suggestion feature based on job descriptions
+  - Implement readability and optimization score
+  - Structure content to maximize ATS parsing accuracy
+
+- **Enhanced Customization**:
+  - Multiple CV templates to choose from
+  - Custom color schemes
+  - Font selection options
+
+If you're interested in contributing to any of these features, please check the Contributing section below.
 
 ## Building for Production
 
