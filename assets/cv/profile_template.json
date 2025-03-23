@@ -1,0 +1,28 @@
+{
+	"data": {
+		"profile": {
+			"name": "Your name",
+			"role": "Your main role",
+			"location": "Your location",
+			"email": "your@email.com",
+			"linkedin": "https://www.linkedin.com/in/your-linkedin",
+			"phone": "+62 123456789",
+			"about": "Lorem Ipsum"
+		},
+		"competencies": [
+			"What you're capable at"
+		],
+		"stacks": [
+			"XAMPP"
+		],
+		"educations": [
+			{
+				"university": "University Name",
+				"url": "Link to the University Websites",
+				"start": "YYYY-mm-dd",
+				"degree": "Bachelor",
+				"majors": ["Informatics Engineering"]
+			}
+		]
+	}
+}

@@ -1,0 +1,27 @@
+[
+	{
+		"media": "email",
+		"url": "mailto:your@email.com",
+		"icon": "envelope"
+	},
+	{
+		"media": "phone",
+		"url": "tel:+62123456789",
+		"icon": "phone"
+	},
+	{
+		"media": "github",
+		"url": "https://github.com/your-github",
+		"icon": "github"
+	},
+	{
+		"media": "linkedin",
+		"url": "https://www.linkedin.com/in/your-linkedin",
+		"icon": "linkedin"
+	},
+	{
+		"media": "instagram",
+		"url": "https://www.instagram.com/your-instagram",
+		"icon": "instagram"
+	}
+]

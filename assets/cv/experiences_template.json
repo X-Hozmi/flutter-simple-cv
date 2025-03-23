@@ -1,0 +1,16 @@
+[
+	{
+		"company": "Company Name",
+		"url": "Link to the Company Websites",
+		"role": "Your role in the company",
+		"place": "Your work site",
+		"hour": "Full-time / Part-time",
+		"start": "YYYY-mm-dd",
+		"responsibilites": [
+			"Building Flutter Apps"
+		],
+		"technologies": [
+			"Flutter"
+		]
+	}
+]
